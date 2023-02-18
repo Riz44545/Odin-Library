@@ -1,0 +1,17 @@
+.complete {
+    background-color: red;
+}
+
+.img-top {
+    height: 100px;
+    width: 100px;
+}
+
+table {
+    margin-top: 5rem;
+}
+
+.read {
+    position: relative;
+    top: 2px;
+}
